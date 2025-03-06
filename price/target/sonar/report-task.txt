@@ -1,0 +1,6 @@
+projectKey=Inditex
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=Inditex
+ceTaskId=e7ac79b4-c923-47c1-9092-aaf2642880cf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e7ac79b4-c923-47c1-9092-aaf2642880cf

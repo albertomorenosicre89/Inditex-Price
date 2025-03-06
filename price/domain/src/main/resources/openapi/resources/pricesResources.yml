@@ -1,0 +1,19 @@
+get:
+  summary: Get a price
+  operationId: getPrice
+  tags:
+    - getPrice
+  requestBody:
+    description: Body with the properties to filter
+    required: true
+    content:
+      application/json:
+        schema:
+          $ref: '../schemas/prices.yml#/filter'
+  responses:
+    '200':
+      description: Response of the finding process in the price talbe
+      content:
+        application/json:
+          schema:
+            $ref: '../schemas/prices.yml#/priceResult'

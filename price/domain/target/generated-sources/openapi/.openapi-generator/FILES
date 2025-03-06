@@ -1,0 +1,6 @@
+README.md
+pom.xml
+src/main/java/com/inditex/ecommerce/generated/api/ApiUtil.java
+src/main/java/com/inditex/ecommerce/generated/api/PriceApi.java
+src/main/java/com/inditex/ecommerce/generated/model/Filter.java
+src/main/java/com/inditex/ecommerce/generated/model/PriceResult.java

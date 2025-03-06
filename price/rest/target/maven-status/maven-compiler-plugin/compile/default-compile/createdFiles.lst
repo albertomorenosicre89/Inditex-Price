@@ -1,0 +1,3 @@
+com\inditex\ecommerce\controller\PriceController.class
+com\inditex\ecommerce\EcommerceApplication.class
+com\inditex\ecommerce\exception\GlobalExceptionHandler.class

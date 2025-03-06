@@ -1,0 +1,6 @@
+com\inditex\ecommerce\dao\PriceDao.class
+com\inditex\ecommerce\entities\PriceId.class
+com\inditex\ecommerce\entities\PriceEntity.class
+com\inditex\ecommerce\entities\PriceEntity$PriceEntityBuilder.class
+com\inditex\ecommerce\ApplicationNotFound.class
+com\inditex\ecommerce\entities\PriceId$PriceIdBuilder.class

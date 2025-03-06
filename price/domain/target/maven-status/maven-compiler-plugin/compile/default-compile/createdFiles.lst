@@ -1,0 +1,10 @@
+com\inditex\ecommerce\generated\model\Filter.class
+com\inditex\ecommerce\exception\ApiError$ApiErrorBuilder.class
+com\inditex\ecommerce\exception\ApiError.class
+com\inditex\ecommerce\generated\model\PriceResult$PriceResultBuilder.class
+com\inditex\ecommerce\generated\model\Filter$FilterBuilder.class
+com\inditex\ecommerce\exception\Error$ErrorBuilder.class
+com\inditex\ecommerce\generated\model\PriceResult.class
+com\inditex\ecommerce\generated\api\PriceApi.class
+com\inditex\ecommerce\exception\Error.class
+com\inditex\ecommerce\generated\api\ApiUtil.class
