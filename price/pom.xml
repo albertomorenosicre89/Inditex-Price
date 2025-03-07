@@ -139,7 +139,7 @@
           <!--suppress UnresolvedMavenProperty -->
           <argLine>${failsafe.jacoco.args}</argLine>
           <includes>
-            <include>**/*E2E.java</include>
+            <include>**/*E2E*.java</include>
           </includes>
           <skipTests>${skipIntegrationTests}</skipTests>
         </configuration>

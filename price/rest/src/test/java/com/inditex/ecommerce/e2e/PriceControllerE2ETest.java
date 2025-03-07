@@ -23,7 +23,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @ExtendWith(SpringExtension.class)
 @SpringBootTest( classes = EcommerceApplication.class,webEnvironment = WebEnvironment.RANDOM_PORT)
-public class PriceControllerE2E {
+public class PriceControllerE2ETest {
 
 	@Autowired
 	private TestRestTemplate testRestTemplate;
